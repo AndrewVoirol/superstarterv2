@@ -25,17 +25,17 @@
 
 ## 📦 Tech Stack
 
-| Technology         | Version    | Purpose                                |
-|-------------------|------------|----------------------------------------|
-| Next.js           | 15.3.1     | React Framework w/ SSR, ISR, etc.     |
-| React             | 19.1.0     | Core UI rendering engine               |
-| TypeScript        | 5.8.3      | Static typing                          |
-| TailwindCSS       | 4.1.4      | Utility-first CSS                      |
-| ShadCN UI         | latest     | Component system w/ Radix Primitives  |
-| Zustand           | 5.0.3      | Global state management                |
-| Lucide-react      | 0.503.0    | Icon system                            |
-| Framer Motion     | 12.7.4     | Animation library                      |
-| ESLint / Prettier | latest     | Code linting + formatting              |
+| Technology        | Version | Purpose                              |
+| ----------------- | ------- | ------------------------------------ |
+| Next.js           | 15.3.1  | React Framework w/ SSR, ISR, etc.    |
+| React             | 19.1.0  | Core UI rendering engine             |
+| TypeScript        | 5.8.3   | Static typing                        |
+| TailwindCSS       | 4.1.4   | Utility-first CSS                    |
+| ShadCN UI         | latest  | Component system w/ Radix Primitives |
+| Zustand           | 5.0.3   | Global state management              |
+| Lucide-react      | 0.503.0 | Icon system                          |
+| Framer Motion     | 12.7.4  | Animation library                    |
+| ESLint / Prettier | latest  | Code linting + formatting            |
 
 ---
 
@@ -108,4 +108,3 @@ This template is optimized for deployment on [Vercel](https://vercel.com).
 ## 📝 License
 
 MIT © [Andrew Voirol](https://github.com/AndrewVoirol)
-
