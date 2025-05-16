@@ -24,6 +24,8 @@
 
 ## 📦 Tech Stack
 
+## 📦 Tech Stack
+
 | Technology        | Version | Purpose                              |
 | ----------------- | ------- | ------------------------------------ |
 | Next.js           | 15.3.2  | React Framework w/ SSR, ISR, etc.    |
@@ -32,8 +34,10 @@
 | TailwindCSS       | 4.1.7   | Utility-first CSS                    |
 | ShadCN UI         | latest  | Component system w/ Radix Primitives |
 | Lucide-react      | 0.510.0 | Icon system                          |
-| Framer Motion     | 12.11.4  | Animation library                   |
+| Framer Motion     | 12.11.4 | Animation library                    |
 | ESLint / Prettier | latest  | Code linting + formatting            |
+
+---
 
 ---
 
